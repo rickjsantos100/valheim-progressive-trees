@@ -1,0 +1,10 @@
+﻿{
+  "name": "ProgressiveTrees",
+  "description": "Adds progressive visual damage to trees as they are chopped.",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.27.1"
+  ]
+}

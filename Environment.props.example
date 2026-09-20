@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <!-- Copy this file to Environment.props and update the paths for this machine. -->
+    <VALHEIM_INSTALL>/absolute/path/to/steamapps/common/Valheim</VALHEIM_INSTALL>
+    <BEPINEX_PATH>$(VALHEIM_INSTALL)/BepInEx</BEPINEX_PATH>
+    <MOD_DEPLOYPATH>$(BEPINEX_PATH)/plugins</MOD_DEPLOYPATH>
+  </PropertyGroup>
+</Project>
